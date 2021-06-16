@@ -21,9 +21,9 @@ df.quality.unique()
 df.quality.value_counts()
 ```
 
-[Blog link](https://towardsai.net/p/data-analysis/exploratory-data-analysis-in-python-ebdf643a33f6)
 
-# Exploratory Data Analysis
+
+# Exploratory Data Analysis [Blog link](https://towardsai.net/p/data-analysis/exploratory-data-analysis-in-python-ebdf643a33f6)
 
 ### Steps in Data Exploation and Preprocessing:
 1. Identification of variables and data types
@@ -158,4 +158,4 @@ sns.countplot(data.column)
 
 ```
 
-> The above eda paractical is done in above jupyter notebook [link](www.google.com)
+> The above eda paractical is done in above jupyter notebook [link](EDA on pokemon.ipynb)
