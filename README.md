@@ -158,4 +158,4 @@ sns.countplot(data.column)
 
 ```
 
-> The above eda paractical is done in above jupyter notebook [link](EDA on pokemon.ipynb)
+> The above eda paractical is done in above jupyter notebook [link](https://github.com/TenzinTsundue/Exploratory-Data-Analysis/blob/master/EDA%20on%20pokemon.ipynb)
